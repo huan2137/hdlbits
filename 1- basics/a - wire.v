@@ -1,5 +1,5 @@
 module top_module(
-	input in, 
+	input in,
 	output out
 );
 	assign out = in; // creates a wire from input to output
