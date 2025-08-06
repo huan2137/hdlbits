@@ -1,6 +1,6 @@
 module top_module (
-	input in,
-	output out, another out
+    input in,
+    output out
 );
-	assign out = in; // creates a wire from input to output
+    assign out = in; // creates a wire from input to output
 endmodule
