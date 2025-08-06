@@ -1,4 +1,4 @@
-module top_module(
+module top_module (
     input a, b, c, d,
     output out, out_n
 ); 

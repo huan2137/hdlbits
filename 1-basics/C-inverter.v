@@ -1,4 +1,4 @@
-module top_module(
+module top_module (
     input in, 
     output out
 );
